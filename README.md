@@ -2,5 +2,5 @@
 
 ## Fluent Python Notebook
 
-![](http://imgur.com/a/1Eeui)
+![](http://i.imgur.com/7ACRenX.png)
 
