@@ -1,6 +1,3 @@
 # Programming Book Notes
 
-## Fluent Python Notebook
-
-![](http://i.imgur.com/7ACRenX.png)
-
+[![](http://i.imgur.com/YBqN1jZ.png)](https://github.com/agalea91/programming-book-notes/blob/master/fluent-python/Fluent-python.ipynb)
