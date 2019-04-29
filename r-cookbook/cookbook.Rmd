@@ -1,0 +1,35 @@
+---
+title: "R Cookbook Notes"
+author: "Alex Galea"
+date: '2017-03-13'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Examples of the most useful recipies from the O'Reilly book by Paul Teetor.
+
+## Chapter 1
+
+### 1.7 Getting Help on a Function
+
+Can type these into the console:
+```
+help(seq)
+args(seq)
+```
+and execute an in-console demo:
+```{r 1.7 1}
+example(seq)
+```
+
+### 1.
+
+### 
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
